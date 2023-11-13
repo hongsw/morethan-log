@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `OpenAI Actions`,
+      href: "https://github.com/hongsw/openai-actions-api-list",
     },
   ],
   // blog setting (required)
