@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "GPT developer",
     bio: "I develop everything using GPT.",
-    email: "hongbuzz@gmail.com",
+    email: "hongbuzz_at_gmail.com",
     linkedin: "martin-hong-sw",
     github: "hongsw",
     instagram: "",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "GPTs 시대 | 졸면안되-AI정보 사이트",
-    description: "welcome to openai action api portal!",
+    title: "대GPTs시대 | 졸면안되-AI정보 사이트",
+    description: "많은 정보를 😺고양이의 센스처럼, 🐶강아지의 후각처럼 생각해봅니다. ㅎ",
   },
 
   // CONFIG configration (required)
