@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "martinhong",
+    name: "Martin Hong",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "GPT developer",
     bio: "I develop everything using GPT.",
@@ -12,20 +12,20 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `OpenAI Actions`,
+      name: `OpenAI News Actions`,
       href: "https://github.com/hongsw/openai-actions-api-list",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "대GPTs시대 | 졸면안되-AI정보 사이트",
-    description: "많은 정보를 😺고양이의 센스처럼, 🐶강아지의 후각처럼 생각해봅니다. ㅎ",
+    title: "대GPTs시대 | 졸면안되-AI 정보사이트",
+    description: "많은 정보를 😺고양이의 센스처럼, 🐶강아지의 후각처럼 생각해봅니다ㅎ",
   },
 
   // CONFIG configration (required)
   link: "https://ai-actions.com",
   since: 2023, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
