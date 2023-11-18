@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "openai-actions-api-list",
+    title: "GPTs 시대 | 졸면안되-AI정보 사이트",
     description: "welcome to openai action api portal!",
   },
 
